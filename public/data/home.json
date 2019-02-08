@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "src":"/img/goods001.jpg",
+        "msg":"新鲜生菜两斤装特惠",
+        "oprice":"5.90",
+        "price":"3.90",
+        "number":1
+    },
+    {
+        "id":2,
+        "src":"/img/goods002.jpg",
+        "msg":"新鲜红萝卜3斤装",
+        "oprice":"12.90",
+        "price":"8.90",
+        "number":1
+    },
+    {
+        "id":3,
+        "src":"/img/goods003.jpg",
+        "msg":"新鲜西红柿5斤装",
+        "oprice":"9.90",
+        "price":"6.90",
+        "number":1
+    }
+]

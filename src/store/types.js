@@ -1,0 +1,11 @@
+export const VIEW_FOOT="VIEW_FOOT";
+export const VIEW_LOADING="VIEW_LOADING";
+export const VIEW_UPDATE_HOME="VIEW_UPDATE_HOME";
+export const VIEW_UPDATE_DETAIL="VIEW_UPDATE_DETAIL";
+export const VIEW_UPDATE_SHOPCART="VIEW_UPDATE_SHOPCART";
+export const load_goods = 'load_goods';
+export const BUY="BUY";
+export const change_car="change_car";
+export const remove_car="remove_car";
+export const clear_car="clear_car";
+export const get_cookie_car="get_cookie_car";
