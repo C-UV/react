@@ -78,6 +78,7 @@ export default class Reg extends Component{
           case 2:
             alert("请输入正确的用户名与密码");
             break;
+            
         }
       }
     )
